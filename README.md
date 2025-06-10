@@ -1,6 +1,6 @@
 # Azure Monitoring & Alerting Lab
 
-This project demonstrates hands-on experience with Azure Monitor, custom alerts, and automated VM deployments via ARM templates.
+In this project I demonstrates hands-on experience with Azure Monitor, custom alerts, and automated VM deployments via ARM templates.
 
 ## Tools & Services Used
 
